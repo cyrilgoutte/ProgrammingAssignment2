@@ -86,7 +86,7 @@ cacheSolve <- function(x, ...) {
 }
 
 ## This is a short test. Running it should print out
-# - The 5x5 matrix M
+# - A 5x5 matrix M
 # - "NULL" indicating the inverse does not exist yet
 # - The inverse, through the "cacheSolve" function
 # - The inverse again, but through the getinv() method of the object
